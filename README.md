@@ -147,18 +147,18 @@ To demonstrate the practical implementation of Object-Oriented Programming conce
 The following screenshots demonstrate the working of the Vehicle Rental Management System.
 
 ### 1. Main Menu
-![Main Menu]<img width="732" height="412" alt="ss1" src="https://github.com/user-attachments/assets/de934763-55ef-4eed-8d0e-099d0cc9578e" />
+<img width="600" height="300" alt="ss1" src="https://github.com/user-attachments/assets/de934763-55ef-4eed-8d0e-099d0cc9578e" />
 
 
 ### 2. Add Vehicle
-![Add Vehicle]<img width="732" height="412" alt="ss1" src="https://github.com/user-attachments/assets/de934763-55ef-4eed-8d0e-099d0cc9578e" />
+<img width="600" height="300" alt="ss1" src="https://github.com/user-attachments/assets/de934763-55ef-4eed-8d0e-099d0cc9578e" />
 
 ### 3. Display Vehicles
-![Display Vehicles]<img width="584" height="347" alt="ss2" src="https://github.com/user-attachments/assets/ee5b516c-1037-48bf-a502-9d49d817aa1b" />
+<img width="600" height="300" alt="ss2" src="https://github.com/user-attachments/assets/ee5b516c-1037-48bf-a502-9d49d817aa1b" />
 
 
 ###  Rent Vehicle
-![Rent Vehicle]<img width="488" height="399" alt="ss3" src="https://github.com/user-attachments/assets/4eb3a51a-822d-486b-a006-0fd165141418" />
+<img width="600" height="300" alt="ss3" src="https://github.com/user-attachments/assets/4eb3a51a-822d-486b-a006-0fd165141418" />
 
 
 
