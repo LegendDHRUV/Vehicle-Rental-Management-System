@@ -1,1 +1,17 @@
 
+# Compiled executable files
+*.exe
+*.out
+rental
+
+# Generated application data
+vehicles.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
