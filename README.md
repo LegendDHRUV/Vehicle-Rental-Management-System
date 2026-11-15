@@ -141,3 +141,24 @@ To demonstrate the practical implementation of Object-Oriented Programming conce
 ---
 
 **Developed as an academic C++ OOP project.**
+
+## Application Output & Screenshots
+
+The following screenshots demonstrate the working of the Vehicle Rental Management System.
+
+### 1. Main Menu
+![Main Menu]<img width="732" height="412" alt="ss1" src="https://github.com/user-attachments/assets/de934763-55ef-4eed-8d0e-099d0cc9578e" />
+
+
+### 2. Add Vehicle
+![Add Vehicle]()
+
+### 3. Display Vehicles
+![Display Vehicles]()
+
+###  Rent Vehicle
+![Rent Vehicle]()
+
+
+
+
